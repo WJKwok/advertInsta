@@ -1,0 +1,37 @@
+img {
+  width:50px;
+}
+
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+.pointer-cursor {
+  cursor: pointer;
+}
+
+/*components*/
+.post-button {
+  padding: 10px;
+}
+
+.home-logo {
+  padding:15px;
+  width:60%;
+}
+
+
+/*alignment*/
+.h-align {
+  display: flex;
+}
+
+.padding-left {
+  padding-left: 5px;
+}
+
+.clearfix {
+  overflow: auto;
+}
